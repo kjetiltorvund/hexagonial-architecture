@@ -40,6 +40,7 @@ public class ID extends ValueObject {
                 ID{
                 id=%d,
                 uuid=%s
+                }
                 """, id, uuid);
     }
 
